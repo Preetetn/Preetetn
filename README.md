@@ -1,13 +1,14 @@
 - 👋 Hi, I’m Preetpal Bhaskar
-- ## 🚀 About Me
+## 🚀 About Me
 I'm Preetpal Bhaskar
 https://www.linkedin.com/feed/
 ## 🛠 Skills
 Machine Learning, Python, Java, MS-Office, Graphical Designing, Tally Prime, SAP, etc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Data Science an AI projects
-- 📫 How to reach me ...
+
+# Hi, I'm Preetpal Bhaskar👋
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/feed/)
+
 preetetn@gmail.com
 <!---
 Preetetn/Preetetn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
