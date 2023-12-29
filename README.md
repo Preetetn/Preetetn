@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @Preetetn
+- ## 🚀 About Me
+I'm Preetpal Bhasker
+https://www.linkedin.com/feed/
+## 🛠 Skills
+Machine Learning, Python, Java, MS-Office, Graphical Designing, Tally Prime, SAP, etc
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Science an AI projects
