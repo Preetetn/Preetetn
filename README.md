@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Preetpal Bhaskar
 ## 🚀 About Me
 I'm Preetpal Bhaskar
-https://www.linkedin.com/feed/
 ## 🛠 Skills
 Machine Learning, Python, Java, MS-Office, Graphical Designing, Tally Prime, SAP, etc
 
